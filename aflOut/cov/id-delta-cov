@@ -1,0 +1,4 @@
+# id:NNNNNN*_file, cycle, src_file, coverage_type, fcn/line
+id:000000,time:0,execs:0,orig:seed_5, 0, /coroutines/main.cpp, function, _Z22resuming_on_new_threadRSt7jthread()
+id:000000,time:0,execs:0,orig:seed_5, 0, /coroutines/main.cpp, function, _ZZ20switch_to_new_threadRSt7jthreadEN9awaitable13await_suspendENSt7__n486116coroutine_handleIvEE()
+id:000000,time:0,execs:0,orig:seed_5, 0, /coroutines/main.cpp, function, main()

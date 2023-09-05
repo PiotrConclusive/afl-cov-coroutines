@@ -1,0 +1,7 @@
+# All functions / lines in this file were executed by at
+# least one AFL test case. See the cov/id-delta-cov file
+# for more information.
+File: /coroutines/main.cpp
+    function: _Z22resuming_on_new_threadRSt7jthread()
+    function: _ZZ20switch_to_new_threadRSt7jthreadEN9awaitable13await_suspendENSt7__n486116coroutine_handleIvEE()
+    function: main()

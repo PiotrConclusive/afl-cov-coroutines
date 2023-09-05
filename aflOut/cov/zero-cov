@@ -1,0 +1,4 @@
+# All functions / lines in this file were never executed by any
+# AFL test case.
+File: /coroutines/main.cpp
+    function: _Z20switch_to_new_threadRSt7jthread()

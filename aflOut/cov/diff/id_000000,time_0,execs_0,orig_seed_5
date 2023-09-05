@@ -1,0 +1,21 @@
+diff (init) -> id:000000,time:0,execs:0,orig:seed_5
+New src file: /coroutines/main.cpp
+  New 'function' coverage: _Z22resuming_on_new_threadRSt7jthread()
+  New 'function' coverage: _ZZ20switch_to_new_threadRSt7jthreadEN9awaitable13await_suspendENSt7__n486116coroutine_handleIvEE()
+  New 'function' coverage: main()
+  New 'line' coverage: 15
+  New 'line' coverage: 17
+  New 'line' coverage: 18
+  New 'line' coverage: 19
+  New 'line' coverage: 21
+  New 'line' coverage: 24
+  New 'line' coverage: 25
+  New 'line' coverage: 37
+  New 'line' coverage: 38
+  New 'line' coverage: 39
+  New 'line' coverage: 54
+  New 'line' coverage: 60
+  New 'line' coverage: 62
+  New 'line' coverage: 64
+  New 'line' coverage: 65
+  New 'line' coverage: 66
